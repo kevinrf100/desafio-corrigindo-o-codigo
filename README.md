@@ -1,4 +1,5 @@
-# Desafio 03 - Corrigindo o código
+#![cover-node js](https://user-images.githubusercontent.com/30449737/187058623-d6abf232-7553-40a9-b548-13e30cb2e851.png)
+ Desafio 03 - Corrigindo o código
 
 # 💻 Sobre o desafio
 
